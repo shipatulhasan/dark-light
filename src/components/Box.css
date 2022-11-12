@@ -1,0 +1,13 @@
+#light .box-bg {
+  background-color: azure;
+}
+#dark {
+  background-color: black;
+}
+
+.box {
+  height: 250px;
+  width: 250px;
+  border: 20px;
+  text-align: center;
+}
